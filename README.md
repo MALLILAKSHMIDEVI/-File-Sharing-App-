@@ -9,6 +9,7 @@ File Download: Users can download files uploaded by other users with encryption 
 File Management: Users can view, organize, and delete files within the application.
 Concurrent Access Handling: The app handles concurrent file access and manages file versions if multiple users modify the same file.
 Error Handling: Provides informative feedback to users for successful file operations and errors.
+
 Installation
 Clone this repository to your local machine:
 git clone https://github.com/MALLILAKSHMIDEVI/-File-Sharing-App-.git
