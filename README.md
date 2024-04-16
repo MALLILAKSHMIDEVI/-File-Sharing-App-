@@ -25,9 +25,17 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 Project Details
 This project was developed as part of a Python application development task. It aims to provide a secure and user-friendly platform for sharing files, incorporating key features such as user authentication, encryption, file management, and error handling.
 
-![Screenshot (517)](https://github.com/MALLILAKSHMIDEVI/-File-Sharing-App-/assets/147050362/c5839dc3-3064-447f-9e27-36bb75293a10)
-![Screenshot (516)](https://github.com/MALLILAKSHMIDEVI/-File-Sharing-App-/assets/147050362/dea420ba-98d8-464d-88c6-84ddea5e8979)
-![Screenshot (515)](https://github.com/MALLILAKSHMIDEVI/-File-Sharing-App-/assets/147050362/f9c32174-d7fe-4a5a-95ae-499c46f47893)
-![Screenshot (514)](https://github.com/MALLILAKSHMIDEVI/-File-Sharing-App-/assets/147050362/d2fc9333-7143-425c-bc0d-d94d71167088)
-![Screenshot (513)](https://github.com/MALLILAKSHMIDEVI/-File-Sharing-App-/assets/147050362/1d7f47c3-754c-4fd7-8805-996957fd40aa)
+Sample Output Images:
 ![Screenshot (512)](https://github.com/MALLILAKSHMIDEVI/-File-Sharing-App-/assets/147050362/f36977be-7722-4c2c-801c-986c75b7a608)
+![Screenshot (513)](https://github.com/MALLILAKSHMIDEVI/-File-Sharing-App-/assets/147050362/1d7f47c3-754c-4fd7-8805-996957fd40aa)
+![Screenshot (514)](https://github.com/MALLILAKSHMIDEVI/-File-Sharing-App-/assets/147050362/d2fc9333-7143-425c-bc0d-d94d71167088)
+![Screenshot (515)](https://github.com/MALLILAKSHMIDEVI/-File-Sharing-App-/assets/147050362/f9c32174-d7fe-4a5a-95ae-499c46f47893)
+![Screenshot (516)](https://github.com/MALLILAKSHMIDEVI/-File-Sharing-App-/assets/147050362/dea420ba-98d8-464d-88c6-84ddea5e8979)
+![Screenshot (517)](https://github.com/MALLILAKSHMIDEVI/-File-Sharing-App-/assets/147050362/c5839dc3-3064-447f-9e27-36bb75293a10)
+
+
+
+
+
+
+
