@@ -1,5 +1,5 @@
 # -File-Sharing-App-
-File Sharing App.py
+
 File Sharing App is a Python application with a graphical user interface (GUI) built using tkinter. It allows users to securely upload, download, and manage files, providing a user-friendly platform for file sharing while maintaining data integrity and confidentiality.
 
 Features
