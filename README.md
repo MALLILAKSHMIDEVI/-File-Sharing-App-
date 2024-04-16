@@ -3,12 +3,12 @@
 File Sharing App is a Python application with a graphical user interface (GUI) built using tkinter. It allows users to securely upload, download, and manage files, providing a user-friendly platform for file sharing while maintaining data integrity and confidentiality.
 
 Features
-User Authentication: Users can log in using their username and password.
-File Upload: Authenticated users can upload files to the server securely.
-File Download: Users can download files uploaded by other users with encryption for secure transmission.
-File Management: Users can view, organize, and delete files within the application.
-Concurrent Access Handling: The app handles concurrent file access and manages file versions if multiple users modify the same file.
-Error Handling: Provides informative feedback to users for successful file operations and errors.
+1.User Authentication: Users can log in using their username and password.
+2.File Upload: Authenticated users can upload files to the server securely.
+3.File Download: Users can download files uploaded by other users with encryption for secure transmission.
+4.File Management: Users can view, organize, and delete files within the application.
+5.Concurrent Access Handling: The app handles concurrent file access and manages file versions if multiple users modify the same file.
+6.Error Handling: Provides informative feedback to users for successful file operations and errors.
 
 Installation
 Clone this repository to your local machine:
